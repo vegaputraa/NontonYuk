@@ -1,4 +1,3 @@
-import { async } from "regenerator-runtime";
 import "../component/movie-list.js";
 import "../component/search-bar.js";
 import DataSource from "../data/data-source.js";
